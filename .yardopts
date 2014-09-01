@@ -1,0 +1,10 @@
+--title 'trix: Useful ruby tools'
+--output-dir doc
+--readme README.md
+lib/**/*.rb
+-
+*.md
+*.txt
+demo/**/*.md
+demo/**/*.rb
+LICENSE.txt

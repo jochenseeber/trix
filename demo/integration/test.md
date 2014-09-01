@@ -1,0 +1,3 @@
+# Integration tests
+
+Currently we have none...
